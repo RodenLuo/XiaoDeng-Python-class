@@ -49,4 +49,14 @@ https://www.youtube.com/watch?v=PC_pAgJopIA
 回答一下这类问题：不是怎样学的快，而是怎样能学得有趣，怎样能一直学
 
 
+在阅读《零基础入门 Python 游戏》之前，的决定，选择cocos
+
+可以发布到iOS
+
+https://docs.cocos.com/creator/3.0/manual/en/editor/publish/publish-ios.html
+
+
+[How can I run my game on an actual iPhone (with dev account)](https://discuss.cocos2d-x.org/t/how-can-i-run-my-game-on-an-actual-iphone-with-dev-account/34430)
+
+公司是中国人做的，中文文档支持会好一些
 
