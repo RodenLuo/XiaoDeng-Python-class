@@ -64,3 +64,11 @@ https://docs.cocos.com/creator/3.0/manual/en/editor/publish/publish-ios.html
 阅读了一下《零基础入门Python游戏（推荐PC阅读）》的目录，也是推荐了这个
 
 https://e.jd.com/30696911.html
+
+
+关于视频剪辑，[腾讯、抖音、B 站都在做剪辑应用，它们做得怎么样](https://www.ifanr.com/minapp/1397225)
+
+秒减，强调自动化
+
+剪映和必剪类似，是为了让专业剪辑更简单，先从B站的必剪上手吧。
+
